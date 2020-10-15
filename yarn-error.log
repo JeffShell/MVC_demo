@@ -1,0 +1,36 @@
+Arguments: 
+  D:\System_Tool\nodejs\node.exe D:\Tool\yarn\bin\yarn.js init
+
+PATH: 
+  D:\System_Tool\cmder\vendor\git-for-windows\mingw64\bin;D:\System_Tool\cmder\vendor\git-for-windows\usr\bin;C:\Users\Jeffrey\bin;C:\Users\Jeffrey\bin;D:\System_Tool\cmder\bin;D:\System_Tool\cmder\vendor\bin;D:\System_Tool\cmder\vendor\git-for-windows\usr\bin;D:\System_Tool\cmder\vendor\git-for-windows\mingw64\bin;D:\System_Tool\cmder\vendor\git-for-windows\usr\local\bin;D:\System_Tool\cmder\vendor\git-for-windows\usr\bin;D:\System_Tool\cmder\vendor\git-for-windows\usr\bin;D:\System_Tool\cmder\vendor\git-for-windows\mingw64\bin;D:\System_Tool\cmder\vendor\git-for-windows\usr\bin;C:\Users\Jeffrey\bin;D:\System_Tool\cmder\vendor\conemu-maximus5\ConEmu\Scripts;D:\System_Tool\cmder\vendor\conemu-maximus5;D:\System_Tool\cmder\vendor\conemu-maximus5\ConEmu;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;D:\System_Tool\nodejs\node_modules;D:\System_Tool\nodejs;D:\Tool\yarn\bin;D:\System_Tool\QuickTime\QTSystem;D:\System_Tool\cmder\vendor\git-for-windows\usr\bin;C:\Users\Jeffrey\AppData\Local\Microsoft\WindowsApps;D:\Code_Tool\Microsoft VS Code\bin;C:\Users\Jeffrey\AppData\Roaming\npm;C:\Users\Jeffrey\AppData\Local\Yarn\bin;D:\Tool\WebStorm\bin;D:\System_Tool\cmder;D:\System_Tool\cmder\vendor\git-for-windows\usr\bin\vendor_perl;D:\System_Tool\cmder\vendor\git-for-windows\usr\bin\core_perl
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.18.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (D:\Tool\yarn\lib\cli.js:137008:13)
+      at Interface.emit (events.js:315:20)
+      at Interface._ttyWrite (readline.js:868:16)
+      at ReadStream.onkeypress (readline.js:205:10)
+      at ReadStream.emit (events.js:315:20)
+      at emitKeys (internal/readline/utils.js:335:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1137:36)
+      at ReadStream.emit (events.js:315:20)
+      at addChunk (_stream_readable.js:295:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
